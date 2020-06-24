@@ -3,7 +3,7 @@
 
 # ts
 
-Typescript starter project. No express
+Typescript starter project. For express, see the express branch
 
 This is meant to be a very simple starter project, for quickly
 testing Typescript code. 
