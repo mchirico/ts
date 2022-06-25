@@ -31,7 +31,7 @@
     "@types/tmp": "^0.1.0",
     "firebase-admin": "^8.12.1",
     "lodash": "^4.17.15",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "sqlite3": "^4.2.0",
     "tmp": "^0.1.0",
     "typed-rest-client": "^1.7.0"
