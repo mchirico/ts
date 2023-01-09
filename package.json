@@ -29,7 +29,7 @@
   "homepage": "https://github.com/mchirico/ts#readme",
   "dependencies": {
     "@types/tmp": "^0.1.0",
-    "firebase-admin": "^8.12.1",
+    "firebase-admin": "^11.4.1",
     "lodash": "^4.17.15",
     "node-fetch": "^2.6.0",
     "sqlite3": "^4.2.0",
